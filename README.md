@@ -101,6 +101,16 @@ Resolution outcome recorded, lessons learned captured, known problems linked. Ev
 | **Input** — Monitoring & Observability | Normalises signals from Datadog, Dynatrace, Prometheus, Splunk, New Relic, Grafana, PagerDuty, Zabbix, Nagios, CloudWatch, Azure Monitor, and 140+ more |
 | **Intelligence** — AI Engine | Entity modelling, correlation, RAG status, root cause analysis, SLA breach detection, revenue risk quantification, confidence scoring |
 | **Execution** — ITSM & Resolution | ServiceNow, Jira Service Management, BMC Helix, Ansible — with corrective action tracking and full audit trail |
+
+## What BrightOps is not
+
+| Not this | Why |
+|---|---|
+| **Not a replacement for your monitoring tools** | BrightOps ingests from Datadog, Dynatrace, Prometheus, Splunk and the rest. It augments your stack rather than replacing it. |
+| **Not another dashboard to watch** | The point is fewer things to watch, not one more. Alerts are correlated into incidents with a cause attached. |
+| **Not a migration or disaster recovery tool** | BrightOps does not move workloads or perform backup, failover, or restore. |
+| **Not the right fit without an IT team** | Enterprise operates alongside your engineers. If you have no IT staff, **BrightOps Lite** is the AI IT department built for that. |
+
 ## Documentation
 
 Full product documentation and setup guides are being published here.
