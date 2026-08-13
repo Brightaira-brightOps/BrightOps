@@ -69,6 +69,34 @@ Built on a **five-layer entity model** — Business Capability → Business Proc
 <p align="center">
   <em>Incident view — business capability, service, and application context in one place</em>
 </p>
+
+## How it works
+
+<p align="center">
+  <img alt="BrightOps architecture — input, intelligence, and execution layers" src="docs/assets/architecture.png" width="90%">
+</p>
+
+**1. Detect — every signal, every layer**
+CPU, disk queue depth, error rate, response time — ingested from your existing monitoring tools into a unified entity model.
+
+**2. Understand — AI correlates the cause**
+Events are grouped and traced through the dependency chain to the root cause, not the symptom. A missing index on `user_transactions` causing connection pool exhaustion reads as exactly that.
+
+**3. Decide — structured response**
+Corrective actions and change requests created, engineer assigned, SLA timers running.
+
+**4. Act — close the loop**
+Resolution outcome recorded, lessons learned captured, known problems linked. Everything auditable.
+
+---
+
+### Three layers underneath
+
+| Layer | What it does |
+|---|---|
+| **Input** — Monitoring & Observability | Normalises signals from Datadog, Dynatrace, Prometheus, Splunk, New Relic, Grafana, PagerDuty, Zabbix, Nagios, CloudWatch, Azure Monitor, and 140+ more |
+| **Intelligence** — AI Engine | Entity modelling, correlation, RAG status, root cause analysis, SLA breach detection, revenue risk quantification, confidence scoring |
+| **Execution** — ITSM & Resolution | ServiceNow, Jira Service Management, BMC Helix, Ansible — with corrective action tracking and full audit trail |
 ## Documentation
 
 Full product documentation and setup guides are being published here.
