@@ -62,6 +62,10 @@ have measurable business consequences.
 
 Built on a **five-layer entity model** — Business Capability → Business Process → Service → Application → Technology — so every technical signal maps to the business function it supports.
 
+<p align="center">
+  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest.png" width="90%">
+</p>
+
 ## Documentation
 
 Full product documentation and setup guides are being published here.
