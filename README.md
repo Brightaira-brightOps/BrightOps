@@ -66,6 +66,9 @@ Built on a **five-layer entity model** — Business Capability → Business Proc
   <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest.png" width="90%">
 </p>
 
+<p align="center">
+  <em>Incident view — business capability, service, and application context in one place</em>
+</p>
 ## Documentation
 
 Full product documentation and setup guides are being published here.
