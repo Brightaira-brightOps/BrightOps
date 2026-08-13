@@ -10,7 +10,9 @@
   <strong>AI-native operational intelligence for enterprise IT</strong><br>
   business-aware monitoring, AI root cause analysis, SLA intelligence, and unified IT operations.
 </p>
-
+<p align="center">
+  <img alt="BrightOps dashboard" src="docs/assets/dashboard.png" width="90%">
+</p>
 ---
 
 ## Documentation
