@@ -32,7 +32,7 @@ have measurable business consequences.
 
 **Not a fit if:**
 
-- [ ] You have no dedicated IT team → see **BrightOps Lite**, an AI IT
+- [ ] You have no dedicated IT team → see  [**BrightOps Lite**](https://brightaira.com/en/editions), an AI IT
       department for businesses without one
 - [ ] You want a monitoring tool — BrightOps augments your existing stack,
       it does not replace it
