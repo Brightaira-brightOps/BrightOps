@@ -73,7 +73,11 @@ Built on a **five-layer entity model** — Business Capability → Business Proc
 ## How it works
 
 <p align="center">
-  <img alt="BrightOps architecture — input, intelligence, and execution layers" src="docs/assets/architecture.png" width="90%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/architecture-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="docs/assets/architecture-light.png">
+    <img alt="BrightOps architecture — input, intelligence, and execution layers" src="docs/assets/architecture-light.png" width="100%">
+  </picture>
 </p>
 
 **1. Detect — every signal, every layer**
