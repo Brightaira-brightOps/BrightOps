@@ -109,7 +109,7 @@ Resolution outcome recorded, lessons learned captured, known problems linked. Ev
 | **Not a replacement for your monitoring tools** | BrightOps ingests from Datadog, Dynatrace, Prometheus, Splunk and the rest. It augments your stack rather than replacing it. |
 | **Not another dashboard to watch** | The point is fewer things to watch, not one more. Alerts are correlated into incidents with a cause attached. |
 | **Not a migration or disaster recovery tool** | BrightOps does not move workloads or perform backup, failover, or restore. |
-| **Not the right fit without an IT team** | Enterprise operates alongside your engineers. If you have no IT staff, **BrightOps Lite** is the AI IT department built for that. |
+| **Not the right fit without an IT team** | Enterprise operates alongside your engineers. If you have no IT staff, [**BrightOps Lite**](https://brightaira.com/en/editions) is the AI IT department built for that. |
 
 ## Documentation
 
