@@ -1,5 +1,11 @@
 # BrightOps
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.png">
+    <img alt="BrightOps" src="docs/assets/banner-light.png" width="100%">
+  </picture>
+</p>
 **AI-native operational intelligence for enterprise IT** — business-aware monitoring, AI root cause analysis, SLA intelligence, and unified IT operations.
 
 ---
