@@ -167,4 +167,21 @@ Full product documentation and setup guides are being published here.
 
 ## Contact
 
-[brightaira.com](https://brightaira.com)
+**Sales and demos** — [brightaira.com](https://brightaira.com)
+**Careers, partnerships, and general enquiries** — ⟨brightops.support@brightaira.com⟩
+
+Brightaira operates across Saudi Arabia, Egypt & India.
+
+---
+
+<p align="center">
+  <a href="https://brightaira.com">Website</a> ·
+  <a href="https://brightaira.com/en/product">Product</a> ·
+  <a href="https://brightaira.com/en/platform">Platform</a> ·
+  <a href="https://brightaira.com/en/editions">Editions</a> ·
+  <a href="https://www.linkedin.com/company/brightaira">LinkedIn</a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Brightaira. All rights reserved.</sub>
+</p>
