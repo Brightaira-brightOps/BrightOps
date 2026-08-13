@@ -111,6 +111,12 @@ Resolution outcome recorded, lessons learned captured, known problems linked. Ev
 | **Not a migration or disaster recovery tool** | BrightOps does not move workloads or perform backup, failover, or restore. |
 | **Not the right fit without an IT team** | Enterprise operates alongside your engineers. If you have no IT staff, [**BrightOps Lite**](https://brightaira.com/en/editions) is the AI IT department built for that. |
 
+## Integrations
+
+**Monitoring & observability** — Datadog · Dynatrace · Prometheus · Splunk · New Relic · Grafana · PagerDuty · Zabbix · Nagios · CloudWatch · Azure Monitor
+
+**ITSM & execution** — ServiceNow · Jira Service Management · BMC Helix · Ansible
+
 ## Documentation
 
 Full product documentation and setup guides are being published here.
