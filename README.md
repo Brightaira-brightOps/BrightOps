@@ -6,7 +6,10 @@
     <img alt="BrightOps" src="docs/assets/banner-light.png" width="100%">
   </picture>
 </p>
-**AI-native operational intelligence for enterprise IT** — business-aware monitoring, AI root cause analysis, SLA intelligence, and unified IT operations.
+<p align="center">
+  <strong>AI-native operational intelligence for enterprise IT</strong><br>
+  business-aware monitoring, AI root cause analysis, SLA intelligence, and unified IT operations.
+</p>
 
 ---
 
