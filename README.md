@@ -168,7 +168,8 @@ Full product documentation and setup guides are being published here.
 ## Contact
 
 **Sales and demos** — [brightaira.com](https://brightaira.com)
-**Careers, partnerships, and general enquiries** — ⟨brightops.support@brightaira.com⟩
+
+**Careers, partnerships, and general enquiries** — info@brightaira.com
 
 Brightaira operates across Saudi Arabia, Egypt & India.
 
