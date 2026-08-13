@@ -123,6 +123,44 @@ We run a live technical session mapped to your environment and stack — your ca
 
 **[Request a demo →](https://brightaira.com/en/contact)**
 
+## FAQ
+
+<details>
+<summary><strong>Does BrightOps replace our monitoring tools?</strong></summary>
+
+No. BrightOps ingests from your existing tools — Datadog, Dynatrace, Prometheus, Splunk and others — and normalises every signal into one entity model. You keep what you have.
+</details>
+
+<details>
+<summary><strong>How is this different from BrightOps Lite?</strong></summary>
+
+Enterprise operates alongside an existing IT team, handling detection, correlation, and business impact quantification while your engineers focus on decisions that need judgment. Lite is a full AI IT department for businesses with no dedicated IT staff. [Compare editions →](https://brightaira.com/en/editions)
+</details>
+
+<details>
+<summary><strong>What does "business-aware" actually mean?</strong></summary>
+
+Every technical entity maps through a five-layer model — Business Capability → Business Process → Service → Application → Technology. A failing database isn't just an alert; it's a quantified revenue risk on the capability it supports.
+</details>
+
+<details>
+<summary><strong>How does root cause analysis work?</strong></summary>
+
+The AI engine traverses entity relationships to trace a symptom back to its origin, with confidence scoring on the result — identifying the specific failure rather than the surface alert.
+</details>
+
+<details>
+<summary><strong>Which ITSM systems does it integrate with?</strong></summary>
+
+ServiceNow, Jira Service Management, and BMC Helix, with incidents, change requests, and service requests managed with full context and audit trail.
+</details>
+
+<details>
+<summary><strong>How long does deployment take?</strong></summary>
+
+⟨needs engineering input⟩
+</details>
+
 ## Documentation
 
 Full product documentation and setup guides are being published here.
