@@ -13,6 +13,7 @@
 <p align="center">
   <img alt="BrightOps dashboard" src="docs/assets/dashboard.png" width="90%">
 </p>
+
 ## Is this for you?
 
 BrightOps is built for enterprise IT teams where infrastructure problems
