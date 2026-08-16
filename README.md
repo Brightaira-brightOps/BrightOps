@@ -64,14 +64,22 @@ Built on a **five-layer entity model** — Business Capability → Business Proc
 
 <p align="center">
   <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest.png" width="90%">
+   <br><em>Business capability — revenue risk, SLA penalties, and operational cost for the business function itself</em>
 </p>
 
 <p align="center">
   <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-service.png" width="90%">
+   <br><em>Service — the APIs delivering that capability, each with its own availability and transaction load</em>
 </p>
 
 <p align="center">
-  <em>Incident view — business capability, service, and application context in one place</em>
+  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-service.png" width="90%">
+  <br><em>Application — the software running each service, and what it depends on underneath</em>
+</p>
+
+<p align="center">
+  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-service.png" width="90%">
+ <br><em>Technology — infrastructure attributes with degradation scoring, the bottom of the chain</em>
 </p>
 
 ## How it works
