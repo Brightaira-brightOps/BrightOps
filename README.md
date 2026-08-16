@@ -73,12 +73,12 @@ Built on a **five-layer entity model** — Business Capability → Business Proc
 </p>
 
 <p align="center">
-  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-service.png" width="90%">
+  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-application.png" width="90%">
   <br><em>Application — the software running each service, and what it depends on underneath</em>
 </p>
 
 <p align="center">
-  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-service.png" width="90%">
+  <img alt="Incident request — service context and dependency drilldown" src="docs/assets/incidentrequest-tech.png" width="90%">
  <br><em>Technology — infrastructure attributes with degradation scoring, the bottom of the chain</em>
 </p>
 
